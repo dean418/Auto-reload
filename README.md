@@ -5,4 +5,5 @@ A basic shell script that listens for changes in a directory and reloads the bro
 ## Example usage
 
 [directory] [title and browser] [Editor]
+
 ./autoreload.sh [./] [Document\ -\ Mozilla\ Firefox] [Code - OSS]
